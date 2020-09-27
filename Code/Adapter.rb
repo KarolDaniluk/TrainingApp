@@ -8,6 +8,8 @@ class Adapter
     end
 
     private
+
+    # lets say this is a bug fix
     
     def self.get_new_excersise(excersise, level)
         classes = excersise.class.ancestors.to_s
