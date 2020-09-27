@@ -31,4 +31,6 @@ class Adapter
 
     # to będzie nowy commit
 
+    # przechujowy komentarz
+
 end
