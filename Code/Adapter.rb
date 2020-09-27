@@ -29,4 +29,8 @@ class Adapter
 
     # dupa blada
 
-end
+    # to będzie nowy commit
+
+    # przechujowy komentarz
+
+endend
