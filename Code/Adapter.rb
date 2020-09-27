@@ -1,5 +1,5 @@
 require_relative 'ExcersiseFactory'
-
+#Comment from Daria
 class Adapter
     def self.change_difficulty(excersise, desired_level)
         output = self.get_new_excersise(excersise, desired_level)
