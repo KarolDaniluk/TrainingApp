@@ -26,4 +26,7 @@ class Adapter
             ExcersisesList.get_squats(level)
         end
     end
+
+    # dupa blada
+
 end
