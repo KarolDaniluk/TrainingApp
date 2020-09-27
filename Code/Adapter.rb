@@ -30,6 +30,5 @@ class Adapter
     # dupa blada
 
     # to będzie nowy commit
-    # to będzie kolejny komit
 
 end
